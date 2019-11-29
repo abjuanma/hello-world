@@ -57,8 +57,8 @@ This project is licensed under the GNU General Public License. For more informat
 
 ## Acknowledgements
 
-[![uclm](https://i.ibb.co/0YpWBWm/UCLM-CEI-Color.png)](https://www.uclm.es/)
-[![i3a](https://i.ibb.co/j8jC8nV/I3A.png)](https://www.i3a.uclm.es/i3a_w/)
+[![uclm](https://i.ibb.co/0YpWBWm/UCLM-CEI-Color.png)](https://www.uclm.es/)\
+[![i3a](https://i.ibb.co/j8jC8nV/I3A.png)](https://www.i3a.uclm.es/i3a_w/)\
 [![cybercamp](https://i.ibb.co/k1cw1MP/02-escudo-cybercamp.png)](https://cybercamp.es/)
 
 ## References
